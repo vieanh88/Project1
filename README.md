@@ -59,3 +59,4 @@ Sử dụng Node.js xây dựng giao diện đơn giản cho phép người dùn
 ### Thư viện sử dụng
 - Joblib: Lưu trữ mô hình
 - Wandb: Theo dõi quá trình huấn luyện
+- FastAPI: Sử dụng tích hợp mô hình
